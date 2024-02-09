@@ -1,0 +1,20 @@
+.pessoaNome,
+.pessoaHobby,
+.pessoaIdade {
+  width: 30vw;
+  padding: 20px;
+  margin: 0;
+  word-wrap: break-word;
+}
+
+.pessoaNome {
+  background-color: aqua;
+}
+
+.pessoaIdade {
+  background-color: aquamarine;
+}
+
+.pessoaHobby {
+  background-color: rgb(71, 167, 167);
+}
